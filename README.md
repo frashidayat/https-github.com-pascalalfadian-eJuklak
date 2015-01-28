@@ -6,5 +6,6 @@ Clone Repository from 'https://github.com/pascalalfadian/eJuklak.git'
 * markdown
 * pandoc
 * tortoisegit
+* eclipse & ide android
 
 _pelajari teknologi 'gratis'_
